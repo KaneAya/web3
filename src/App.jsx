@@ -42,7 +42,6 @@ function Gallery(props) {
 }
 
 function Main() {
-    const x=21;
     const urls=[
 	"https:\/\/randomfox.ca\/images\/21.jpg",
 	"https:\/\/randomfox.ca\/images\/22.jpg",
